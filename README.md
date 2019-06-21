@@ -8,4 +8,4 @@
 
 Check for latest release: https://github.com/adeptio-project/adeptioModernWallet/releases
 
-![Alt text](https://raw.githubusercontent.com/adeptio-project/adeptioModernWallet/master/examples/overview.png)
+![Alt text](https://wiki.adeptio.cc/uploads/images/gallery/2019-06-Jun/2boq6rt4h0DDDPjR-Selection_012.png)
