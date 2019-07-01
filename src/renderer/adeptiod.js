@@ -59,8 +59,8 @@ class Daemon {
       const daemonPath = path.join(this.binaries, this.daemon);
       this.daemonProcess = child_process.spawn(daemonPath, [
         "--daemon",
-        "--rpcuser=adeptiouser",
-        "--rpcpassword=au0uXT1793xzUXnxaPknPyBJK2ATEslL",
+        "--rpcuser=adeptio",
+        "--rpcpassword=",
         "--staking=1",
         "--rpcallowip=127.0.0.1",
         //userSpecifiedHomeDir
