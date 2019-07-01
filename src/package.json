@@ -1,6 +1,6 @@
 {
   "name": "AdeptioModernWallet",
-  "version": "0.0.1",
+  "version": "0.3.0",
   "description": "Desktop wallet for Adeptio currency",
   "main": "main.js",
   "scripts": {
